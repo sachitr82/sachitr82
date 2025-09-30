@@ -1,4 +1,4 @@
-## Henlo
+## Hello
 
 My name is **Sachit** and I am a MSc Statistics student at Imperial College London.
 
