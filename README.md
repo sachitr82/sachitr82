@@ -15,4 +15,4 @@ My name is **Sachit** and I am a MSc Statistics student at Imperial College Lond
     - ~Mail~
     - Email
     - Phone
-
+- $9 + 10^2 = 109$
